@@ -15,7 +15,7 @@ Dieses Projekt dient der Professionalisierung unserer Softwareentwicklung.
 - [Version 5 (2020)](dokumentation/version5-2020.doc)
 - [Version 6 (2021)](dokumentation/version6-2021.doc)
 - [Branch-Strategie](docs/02_branch_strategie.md)
-- [Website](https://JNGNGY.github.io/in250-black-market-gmbh/)
+- [Website](https://jngngy.github.io/in250-black-market-gmbh/)
 
 ## Tasks
 
