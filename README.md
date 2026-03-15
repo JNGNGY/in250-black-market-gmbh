@@ -14,13 +14,14 @@ Dieses Projekt dient der Professionalisierung unserer Softwareentwicklung.
 - [Version 3 (2019)](dokumentation/version3-2019.doc)
 - [Version 5 (2020)](dokumentation/version5-2020.doc)
 - [Version 6 (2021)](dokumentation/version6-2021.doc)
+- [Branch-Strategie](docs/02_branch_strategie.md)
 
 ## Tasks
 
 - [x] Repository Setup
 - [x] Dokumentation erstellt
 - [x] Hauptseite erstellt
-- [ ] Sicherheitsrelevante Dateien entfernt
-- [ ] Automatisierung eingerichtet
+- [x] Sicherheitsrelevante Dateien entfernt
+- [x] Automatisierung eingerichtet
 - [ ] Branching-Strategie definiert
 - [ ] Github Pages eingerichtet
